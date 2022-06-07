@@ -6,7 +6,7 @@
 ### ``` Login Screen ```
 
 <div align="center">
-  <img src="screenshots/loginscreen.png" width="350">
+  <img src="screenshots/loginscreen.png" width="280">
   </div>
 
 ### ``` Terminal --> TEST PASSED ```
