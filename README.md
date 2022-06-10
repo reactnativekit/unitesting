@@ -12,3 +12,7 @@
 ### ``` Terminal --> TEST PASSED ```
 
 <img src="screenshots/unitesting.png"/>
+
+### ``` Terminal --> TEST FAILED ```
+
+<img src="screenshots/testfailed.png"/>
