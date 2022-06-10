@@ -3,6 +3,12 @@
 
 ### Screenshot:
 
+### ``` Login Screen ```
+
 <div align="center">
-  <img src="screenshots/unitesting.png">
+  <img src="screenshots/loginscreen.png" width="280">
   </div>
+
+### ``` Terminal --> TEST PASSED ```
+
+<img src="screenshots/unitesting.png"/>
