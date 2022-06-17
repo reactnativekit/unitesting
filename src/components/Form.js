@@ -67,7 +67,6 @@ export const Input = ({ label, error, ...props }) => {
   return (
     <View style={containerStyles}>
       <Text style={styles.inputLabel}>{label}</Text>
-
       <View style={styles.row}>
         <TextInput autoCapitalize="none" style={styles.input} {...props} />
       </View>

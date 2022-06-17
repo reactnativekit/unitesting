@@ -3,7 +3,7 @@ import { render, fireEvent, act } from "@testing-library/react-native";
 import SignIn from "../SignIn";
 
 // const flushMicrotasksQueue = () =>
-//   new Promise((resolve) => setImmediate(resolve));
+// new Promise((resolve) => setImmediate(resolve));
 
 it("renders default elements", () => {
   const { getAllByText, getByPlaceholderText } = render(<SignIn />);
