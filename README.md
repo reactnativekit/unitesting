@@ -8,6 +8,18 @@
 <div align="center">
   <img src="screenshots/loginscreen.png" width="280">
   </div>
+  
+### ``` Home Screen ```
+
+<div align="center">
+  <img src="screenshots/Home.png" width="280">
+  </div>
+  
+### ``` Details Screen ```
+
+<div align="center">
+  <img src="screenshots/Details.png" width="280">
+  </div>
 
 ### ``` Terminal --> TEST PASSED ```
 
